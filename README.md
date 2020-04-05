@@ -1,2 +1,2 @@
 # Knime-Main-Position
-Knime with main position machine learning
+Positioning with Knime Machine Learning and Player data
